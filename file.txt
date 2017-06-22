@@ -1,5 +1,3 @@
 Initial commit.
 Howdy World.
 Goodbye World.
-
-Begin issue 2 text.
